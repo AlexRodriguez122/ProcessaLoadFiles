@@ -37,21 +37,21 @@ Una vez cargado el modulo lo recomendable es utilizar el siguiente comando.
 ```PowerShell
 Get-Configuration
 ```
-Con esto podremos ver toda la configuracion del modulo.
+Con esto podremos ver toda la configuracion del modulo. mas informacion en el enlace del cuadro de funciones.
 
 ## Configurar el modulo
 Ejecute el siguiente comando para realizar la configuracion del modulo.
 ```PowerShell
 Set-Configuration
 ```
-Esta funcion abrira un cuadro de dialogo en el cual debe ingresar los valores solicitados para la configuracion, una vez de click en el boton Aceptar la configuracion se validara e indicara si fue posible guardarla o no.
+Esta funcion abrira un cuadro de dialogo en el cual debe ingresar los valores solicitados para la configuracion, una vez de click en el boton Aceptar la configuracion se validara e indicara si fue posible guardarla o no.  mas informacion en el enlace del cuadro de funciones.
 
 ## Validar la configuracion del modulo
 Ejecute el siguiente comando para validar la configuracion
 ```PowerShell
 Test-Configuration
 ```
-Con esto se indicara si la configuracion se encuentra correcta o presenta algun error.
+Con esto se indicara si la configuracion se encuentra correcta o presenta algun error.  mas informacion en el enlace del cuadro de funciones.
 
 ## Finalizando 
-Con la configuracion establecida y validada puede utilizar las demas funciones indicadas en el cuadro anterior.
+Con la configuracion establecida y validada puede utilizar las demas funciones indicadas en el cuadro de funciones.
