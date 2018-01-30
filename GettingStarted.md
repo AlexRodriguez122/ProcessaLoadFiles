@@ -8,7 +8,7 @@ La primera versión del módulo contiene funciones para el cargue de archivos qu
 
 | Fuinción  | Descripción  |
 |:---|---|
-| [Find-BonusLog](Scripting/Find-BonusLog)  | Encuentra la ruta completa del log enviado al cliente por un numero de bono especifico. |
+| [Find-BonusLog](Scripting/Find-BonusLog.md)  | Encuentra la ruta completa del log enviado al cliente por un numero de bono especifico. |
 | [Get-AdminLog](Scripting/Get-AdminLog)  | Obtiene y muestra el log del administrador por rango de fechas y un posible processId |
 | [Get-Configuration](Scripting/GetConfig)  | Obtiene la configuracion del modulo. |
 | [Get-ValuePattern](Scripting/RemoveConfig)  | Obtiene informacion del archivo indicado segun la expresion regular indicada. |
