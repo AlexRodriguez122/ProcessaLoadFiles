@@ -9,14 +9,14 @@ La primera versión del módulo contiene funciones para el cargue de archivos qu
 | Fuinción  | Descripción  |
 |:---|---|
 | [Find-BonusLog](Scripting/Find-BonusLog.md)  | Encuentra la ruta completa del log enviado al cliente por un numero de bono especifico. |
-| [Get-AdminLog](Scripting/Get-AdminLog)  | Obtiene y muestra el log del administrador por rango de fechas y un posible processId |
-| [Get-Configuration](Scripting/GetConfig)  | Obtiene la configuracion del modulo. |
-| [Get-ValuePattern](Scripting/RemoveConfig)  | Obtiene informacion del archivo indicado segun la expresion regular indicada. |
-| [Invoke-BonusActivation](Scripting/InvokeReport)  | Realiza el proceso de cargue y activacion de los bonos enviados en el archivo indicado. |
-| [Invoke-BonusCancellation](Scripting/InvokeReport)  | Realiza el proceso de cargue y cancelacion de los bonos enviados en el archivo indicado. |
-| [Invoke-BonusLock](Scripting/InvokeReport)  | Realiza el proceso de cargue y bloqueo de los bonos enviados en el archivo indicado. |
-| [Set-Configuration](Scripting/InvokeReport)  | Realiza la configuracion necesaria para el funcionamiento del modulo. |
-| [Test-Configuration](Scripting/InvokeReport)  | Valida que la configuracion del modulo se encuentre correcta. |
+| [Get-AdminLog](Scripting/Get-AdminLog.md)  | Obtiene y muestra el log del administrador por rango de fechas y un posible processId |
+| [Get-Configuration](Scripting/Get-Configuration.md)  | Obtiene la configuracion del modulo. |
+| [Get-ValuePattern](Scripting/Get-ValuePattern.md)  | Obtiene informacion del archivo indicado segun la expresion regular indicada. |
+| [Invoke-BonusActivation](Scripting/Invoke-BonusActivation.md)  | Realiza el proceso de cargue y activacion de los bonos enviados en el archivo indicado. |
+| [Invoke-BonusCancellation](Scripting/Invoke-BonusCancellation.md)  | Realiza el proceso de cargue y cancelacion de los bonos enviados en el archivo indicado. |
+| [Invoke-BonusLock](Scripting/Invoke-BonusLock.md)  | Realiza el proceso de cargue y bloqueo de los bonos enviados en el archivo indicado. |
+| [Set-Configuration](Scripting/Set-Configuration.md)  | Realiza la configuracion necesaria para el funcionamiento del modulo. |
+| [Test-Configuration](Scripting/Test-Configuration.md)  | Valida que la configuracion del modulo se encuentre correcta. |
 
 # ¿ Como instalar el modulo ?
 Abra una ventana de Powershell (En su preferencia como Administrador) y ejecute el siguiente comando.
