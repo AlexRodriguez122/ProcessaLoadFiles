@@ -8,8 +8,8 @@ La primera versión del módulo contiene funciones para el cargue de archivos qu
 
 | Fuinción  | Descripción  |
 |:---|---|
-| [Find-BonusLog](Scripting/Setup)  | Encuentra la ruta completa del log enviado al cliente por un numero de bono especifico. |
-| [Get-AdminLog](Scripting/SetConfig)  | Obtiene y muestra el log del administrador por rango de fechas y un posible processId |
+| [Find-BonusLog](Scripting/Find-BonusLog)  | Encuentra la ruta completa del log enviado al cliente por un numero de bono especifico. |
+| [Get-AdminLog](Scripting/Get-AdminLog)  | Obtiene y muestra el log del administrador por rango de fechas y un posible processId |
 | [Get-Configuration](Scripting/GetConfig)  | Obtiene la configuracion del modulo. |
 | [Get-ValuePattern](Scripting/RemoveConfig)  | Obtiene informacion del archivo indicado segun la expresion regular indicada. |
 | [Invoke-BonusActivation](Scripting/InvokeReport)  | Realiza el proceso de cargue y activacion de los bonos enviados en el archivo indicado. |
